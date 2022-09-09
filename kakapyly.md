@@ -8,8 +8,8 @@ tai tehdä checklist
 
 saatana
 
-> Juho, can we get wordpress for wiki?
-Juho: we have wordpress at home
+> Juho, can we get wordpress for wiki?  
+Juho: we have wordpress at home  
 Wordpress at home: github
 
 # kakka
